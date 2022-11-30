@@ -19,6 +19,7 @@
 
   <a href="https://github.com/JaviB10/ProyectoCoder-PG.TrainingGYM"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JaviB10&repo=ProyectoCoder-PG.TrainingGYM&theme=tokyonight" alt="github-readme-youtube-cards"></a>
   <a href="https://github.com/JaviB10/ProyectoCoder-JuegoRPG"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JaviB10&repo=ProyectoCoder-JuegoRPG&theme=tokyonight" alt="github-readme-youtube-cards"></a>
+  <a href="https://github.com/JaviB10/ProyectoCoder-PG.TrainingSHOP"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JaviB10&repo=ProyectoCoder-PG.TrainingSHOP&theme=tokyonight" alt="github-readme-youtube-cards"></a>
 
    <a href="https://github.com/JaviB10?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
