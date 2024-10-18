@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=0013F795&center=true&multiline=true&width=435&height=250&lines=JAVIER+BALLON;FRONTEND+DEVELOPER" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=35&duration=2000&pause=500&color=1ABD5A&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Javier+Ball%C3%B3n;FULL-STACK+DEVELOPER" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/javierballon10/"><img width="100px" alt="Youtube" title="Youtube" src="https://user-images.githubusercontent.com/70550925/202590657-fbd5f770-1a4a-42b2-8253-be7e79f7d464.png"/></a>
+  <a href="https://www.linkedin.com/in/javierballon10/"><img width="100px" alt="Youtube" title="LinkedIn" src="https://user-images.githubusercontent.com/70550925/202590657-fbd5f770-1a4a-42b2-8253-be7e79f7d464.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -32,12 +32,19 @@
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
-      <a href="https://github.com/search?q=user%3AJaviB10+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AJaviB10+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AJaviB10+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="https://github.com/search?q=user%3AJaviB10+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AJaviB10+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AJaviB10+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+      <img alt="Static Badge" src="https://img.shields.io/badge/.NET-CORE?style=plastic&logo=cplusplus&logoSize=auto&color=%23512BD4">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Django-brightgreen?style=plastic&logo=django&logoSize=auto&color=%23092E20">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Boot-brightgreen?style=plastic&logo=springboot&logoSize=auto&color=%236DB33F">
+      <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-brightgreen?style=plastic&logo=mongodb&logoSize=auto&color=%23000000">
+<img alt="Static Badge" src="https://img.shields.io/badge/Postman-brightgreen?style=plastic&logo=postman&logoSize=auto&color=%23FF6C37">
+<img alt="Static Badge" src="https://img.shields.io/badge/AMAZON%20WEB%20SERVICES-brightgreen?style=plastic&logo=amazonwebservices&logoSize=auto&color=%23232F3E">
+
+
+
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
