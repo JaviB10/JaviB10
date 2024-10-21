@@ -1,18 +1,22 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=35&duration=2000&pause=500&color=1ABD5A&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Javier+Ball%C3%B3n;FULL-STACK+DEVELOPER" /></a>
+    <a><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=65&duration=1000&pause=10000&color=F7CB27&center=true&vCenter=true&width=550&height=100&lines=JAVIER+BALL%C3%93N" alt="Typing SVG" /></a>
+    <a><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=40&duration=1000&pause=10000&color=F7CB27&center=true&vCenter=true&width=550&height=100&lines=FULL+STACK+DEVELOPER" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/javierballon10/"><img width="100px" alt="Youtube" title="LinkedIn" src="https://user-images.githubusercontent.com/70550925/202590657-fbd5f770-1a4a-42b2-8253-be7e79f7d464.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
-<p align="center">
+<p align="start">
   <a href="https://github.com/JaviB10?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JaviB10?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/JaviB10?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JaviB10?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
+<details open>
+    <summary><h2>🌐 Connect with Me</h2></summary>
+    <p>
+        <a href="https://www.linkedin.com/in/javierballon10/"><img width="200px" alt="Static Badge" src="https://img.shields.io/badge/LinkedIn%20-%20brightgreen?style=social&logo=linkedin&logoColor=%230A66C2&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjavierballon10%2F"></a>
+        <a href="https://drive.google.com/file/d/1fV7qOWE_TSLYCN2Sfdaf8xkDRkauGYZT/view?usp=sharing"><img width="300px" alt="Static Badge" src="https://img.shields.io/badge/CurriculumVitae%20-%20brightgreen?style=social&logo=readdotcv&logoColor=%23111111&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1fV7qOWE_TSLYCN2Sfdaf8xkDRkauGYZT%2Fview%3Fusp%3Dsharing"></a>
+    </p>
+</details>
 
 <details open> 
   <summary><h2>🌍 My Favorite Open Source Projects</h2></summary>
@@ -22,7 +26,7 @@
   <a href="https://github.com/JaviB10/ProyectoCoder-PG.TrainingSHOP"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JaviB10&repo=ProyectoCoder-PG.TrainingSHOP&theme=tokyonight" alt="github-readme-youtube-cards"></a>
   <a href="https://github.com/JaviB10/ProyectoFreelance-CaprichosasSHOP"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JaviB10&repo=ProyectoFreelance-CaprichosasSHOP&theme=tokyonight" alt="github-readme-youtube-cards"></a>
 
-   <a href="https://github.com/JaviB10?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
+   <a href="https://github.com/JaviB10?tab=repositories&sort=stargazers"><img width="400px" alt="Static Badge" src="https://img.shields.io/badge/CLICK%20HERE%20FOR%20ALL%20MY%20REPOS%20-%20brightgreen?style=for-the-badge&logo=files&logoColor=%23000000&color=%23DD2C00"></a>
 </details>
 
 <details open> 
