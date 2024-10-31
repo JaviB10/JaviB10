@@ -1,4 +1,4 @@
-<p align="center">
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwww<p align="center">
     <a><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=65&duration=1000&pause=10000&color=F7CB27&center=true&vCenter=true&width=550&height=100&lines=JAVIER+BALL%C3%93N" alt="Typing SVG" /></a>
     <a><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=40&duration=1000&pause=10000&color=F7CB27&center=true&vCenter=true&width=550&height=100&lines=FULL+STACK+DEVELOPER" alt="Typing SVG" /></a>
 </p>
@@ -20,6 +20,7 @@
 
 <details open> 
     <summary><h2>🌍 My Favorite Open Source Projects</h2></summary>
+    <a href="https://github.com/JaviB10/TallerCRM"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=JaviB10&repo=TallerCRM&theme=tokyonight" alt="github-readme-youtube-cards"></a>
     <a href="https://github.com/JaviB10/ProyectoCoder-PG.TrainingGYM"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=JaviB10&repo=ProyectoCoder-PG.TrainingGYM&theme=tokyonight" alt="github-readme-youtube-cards"></a>
     <a href="https://github.com/JaviB10/ProyectoCoder-JuegoRPG"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JaviB10&repo=ProyectoCoder-JuegoRPG&theme=tokyonight" alt="github-readme-youtube-cards"></a>
     <a href="https://github.com/JaviB10/ProyectoCoder-PG.TrainingSHOP"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JaviB10&repo=ProyectoCoder-PG.TrainingSHOP&theme=tokyonight" alt="github-readme-youtube-cards"></a>
