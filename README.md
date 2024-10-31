@@ -20,6 +20,7 @@
 
 <details open> 
     <summary><h2>🌍 My Favorite Open Source Projects</h2></summary>
+    <a href="https://github.com/JaviB10/Game-Fuit-Ninja"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=JaviB10&repo=Game-Fuit-Ninja&theme=tokyonight" alt="github-readme-youtube-cards"></a>
     <a href="https://github.com/JaviB10/TallerCRM"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=JaviB10&repo=TallerCRM&theme=tokyonight" alt="github-readme-youtube-cards"></a>
     <a href="https://github.com/JaviB10/ProyectoCoder-PG.TrainingGYM"><img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=JaviB10&repo=ProyectoCoder-PG.TrainingGYM&theme=tokyonight" alt="github-readme-youtube-cards"></a>
     <a href="https://github.com/JaviB10/ProyectoCoder-JuegoRPG"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JaviB10&repo=ProyectoCoder-JuegoRPG&theme=tokyonight" alt="github-readme-youtube-cards"></a>
