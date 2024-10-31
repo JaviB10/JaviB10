@@ -1,4 +1,4 @@
-wwwwwwwwwwwwwwwwwwwwwwwwwwwwww<p align="center">
+<p align="center">
     <a><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=65&duration=1000&pause=10000&color=F7CB27&center=true&vCenter=true&width=550&height=100&lines=JAVIER+BALL%C3%93N" alt="Typing SVG" /></a>
     <a><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=40&duration=1000&pause=10000&color=F7CB27&center=true&vCenter=true&width=550&height=100&lines=FULL+STACK+DEVELOPER" alt="Typing SVG" /></a>
 </p>
